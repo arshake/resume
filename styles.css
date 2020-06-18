@@ -1,0 +1,37 @@
+.a {
+  text-decoration: none;
+  color: blue;
+}
+
+button {
+  background-color: white;
+  color: red;
+  width: 13%;
+}
+
+button:hover {
+  background-color: #9bdeac;
+  color: #fff;
+  width: 13%;
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+  margin: 0 0 0 0%;
+  border-radius: 100%;
+}
+
+.topimg {
+  background-color: red;
+  margin: -10px;
+  text-align: center;
+  height: 100%;
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fweneedfun.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPretty-Girly-Colorful-Wallpapers-11.jpg&f=1&nofb=1);
+}
+
+
+.kit{
+  font-family: font-family: 'Satisfy', cursive;
+
+}
